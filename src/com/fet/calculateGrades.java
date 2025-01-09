@@ -22,4 +22,7 @@ nestedif();
             System.out.println("The Grade is Fail");
         }
     }
+    public static void ifelse(){
+
+    }
 }
